@@ -45,7 +45,7 @@ as the SFML but the rendering is similar.
 
 Make sure to clone this repository with submodules :
 
-    git clone --recurse-submodules --remote-submodules
+    git clone --recurse-submodules --remote-submodules https://github.com/Eren121/OpenGLTransformations.git
 
 And standard CMake workflow :
 
