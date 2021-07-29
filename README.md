@@ -2,7 +2,7 @@
 
 *To understand OpenGL transformations*
 
-![img.png](img.png)
+![Screenshot](https://raw.githubusercontent.com/Eren121/OpenGLTransformations/master/assets/screenshots/img.png)
 
 
 Simple interactive vizualization of transformations for 2D shapes implemented
